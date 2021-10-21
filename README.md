@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 Pronouns: He/Him
+
 <!--
 **PIESHEF/PIESHEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -39,3 +41,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
+[facebook]: https://www.facebook.com/alex.pieshefski
+[instagram]: https://www.instagram.com/alex_pieshefski/
