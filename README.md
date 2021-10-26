@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][facebook]
+<!-- [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][facebook] -->
 [<img align="left" alt="Instagram" width="22px" style="color: black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
