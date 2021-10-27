@@ -41,5 +41,5 @@ Here are some ideas to get you started:
 <img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
-[facebook]: https://www.facebook.com/alex.pieshefski
+<!-- [facebook]: https://www.facebook.com/alex.pieshefski -->
 [instagram]: https://www.instagram.com/alex_pieshefski/
