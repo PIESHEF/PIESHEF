@@ -10,15 +10,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
+
+### About Me:
+
+- 😄 Pronouns: He/Him
+- 📫 How to reach me: apieshefski@gmail.com
 
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-plain.svg" />][facebook] -->
 [<img align="left" alt="Instagram" width="22px" style="color: black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -43,5 +45,4 @@ Here are some ideas to get you started:
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
-<!-- [facebook]: https://www.facebook.com/alex.pieshefski -->
 [instagram]: https://www.instagram.com/alex_pieshefski/
