@@ -43,5 +43,13 @@ Here are some ideas to get you started:
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="VSCode" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
+<br />
+
+### My GitHub Stats:
+
+<p align="center">
+  <a href="https://github.com/PIESHEF"><img src="https://github-readme-stats.vercel.app/api?username=PIESHEF&hide_border=true&show_icons=true" alt="PIESHEF's github stats"></a>
+</p>
+
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
 [instagram]: https://www.instagram.com/alex_pieshefski/
