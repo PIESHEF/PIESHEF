@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### My GitHub Stats:
 
 <p align="center">
-  <a href="https://github.com/PIESHEF"><img src="https://github-readme-stats.vercel.app/api?username=PIESHEF&hide_border=true&show_icons=true" alt="PIESHEF's github stats"></a>
+  <a href="https://github.com/PIESHEF"><img src="https://github-readme-stats.vercel.app/api?username=PIESHEF&hide_border=true&show_icons=true&theme=nightowl" alt="PIESHEF's github stats"></a>
 </p>
 
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
