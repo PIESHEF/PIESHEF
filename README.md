@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-Software Engineer previously working for Argo AI's IT Software Engineering team with a degree in Computer Engineering from Penn State. I'm a self-sufficient worker with 3+ years of experience in software engineering, web development, automation, testing, and DevOps tooling.
+I am a software engineer previously working for Argo AI's IT Software Engineering team with a degree in Computer Engineering from Penn State. I'm a self-sufficient worker with 3+ years of experience in software engineering, web development, automation, testing, and DevOps tooling.
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: apieshefski@gmail.com
