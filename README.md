@@ -1,21 +1,8 @@
 ### Hi there 👋
 
-<!--
-**PIESHEF/PIESHEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
--->
-
-### About Me:
-
 I am a software engineer previously working for Argo AI's IT Software Engineering team with a degree in Computer Engineering from Penn State. I'm a self-sufficient worker with 3+ years of experience in software engineering, web development, automation, testing, and DevOps tooling.
+
+#### About Me:
 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: apieshefski@gmail.com
@@ -66,7 +53,7 @@ I am a software engineer previously working for Argo AI's IT Software Engineerin
   <br />
 </p>
 
-### My GitHub Stats:
+#### My GitHub Stats:
 
 <p align="center">
   <a href="https://github.com/PIESHEF"><img src="https://github-readme-stats.vercel.app/api?username=PIESHEF&hide_border=true&show_icons=true&theme=nightowl" alt="PIESHEF's github stats"></a>
