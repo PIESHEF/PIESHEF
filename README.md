@@ -20,13 +20,6 @@ I am a software engineer previously working for Argo AI's IT Software Engineerin
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: apieshefski@gmail.com
 
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" style="color: black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -52,6 +45,11 @@ I am a software engineer previously working for Argo AI's IT Software Engineerin
 <p align="center">
   <a href="https://github.com/PIESHEF"><img src="https://github-readme-stats.vercel.app/api?username=PIESHEF&hide_border=true&show_icons=true&theme=nightowl" alt="PIESHEF's github stats"></a>
 </p>
+
+### Connect with me:
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" style="color: black" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [linkedin]: https://www.linkedin.com/in/alex-pieshefski/
 [instagram]: https://www.instagram.com/alex_pieshefski/
