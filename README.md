@@ -52,6 +52,7 @@ I am a software engineer previously working for Argo AI's IT Software Engineerin
 <p>
   <img alt="Next JS" src="https://img.shields.io/badge/-Next-000000?style=flat-square&logo=next.js&logoColor=white" />
   <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-terraform-5835CC?style=flat-square&logo=terraform&logoColor=white" />
   <br />
 </p>
 
